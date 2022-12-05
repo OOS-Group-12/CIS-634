@@ -1,0 +1,483 @@
+[08-Oct-2022 15:22:38 UTC] PHP Notice:  Undefined index: voter_id in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/forgot.php on line 20
+[08-Oct-2022 15:22:38 UTC] PHP Notice:  Undefined variable: email1 in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/forgot.php on line 30
+[08-Oct-2022 15:22:38 UTC] PHP Notice:  Undefined variable: password in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/forgot.php on line 31
+[08-Oct-2022 15:23:39 UTC] PHP Notice:  Undefined index: voter_id in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/forgot.php on line 20
+[08-Oct-2022 15:23:39 UTC] PHP Notice:  Undefined variable: email1 in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/forgot.php on line 30
+[08-Oct-2022 15:23:39 UTC] PHP Notice:  Undefined variable: password in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/forgot.php on line 31
+[08-Oct-2022 15:27:45 UTC] PHP Notice:  Undefined index: voter_id in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/forgot.php on line 20
+[08-Oct-2022 15:27:45 UTC] PHP Notice:  Undefined variable: email1 in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/forgot.php on line 29
+[08-Oct-2022 15:27:45 UTC] PHP Notice:  Undefined variable: password in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/forgot.php on line 30
+[08-Oct-2022 15:32:44 UTC] PHP Notice:  Undefined index: voter_id in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/forgot.php on line 20
+[08-Oct-2022 15:32:44 UTC] PHP Notice:  Undefined variable: email1 in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/forgot.php on line 30
+[08-Oct-2022 15:32:44 UTC] PHP Notice:  Undefined variable: password in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/forgot.php on line 31
+[08-Oct-2022 15:36:50 UTC] PHP Notice:  Undefined index: voter_id in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/forgot.php on line 20
+[08-Oct-2022 15:36:51 UTC] PHP Notice:  Undefined variable: email1 in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/forgot.php on line 31
+[08-Oct-2022 15:36:51 UTC] PHP Notice:  Undefined variable: password in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/forgot.php on line 32
+[08-Oct-2022 15:40:52 UTC] PHP Notice:  Undefined index: voter_id in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/forgot.php on line 20
+[08-Oct-2022 15:40:52 UTC] PHP Notice:  Undefined variable: email1 in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/forgot.php on line 30
+[08-Oct-2022 15:40:52 UTC] PHP Notice:  Undefined variable: password in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/forgot.php on line 31
+[08-Oct-2022 15:42:51 UTC] PHP Notice:  Undefined index: voter_id in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/forgot.php on line 20
+[08-Oct-2022 15:42:51 UTC] PHP Notice:  Undefined variable: email1 in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/forgot.php on line 29
+[08-Oct-2022 15:42:51 UTC] PHP Notice:  Undefined variable: password in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/forgot.php on line 30
+[08-Oct-2022 15:45:06 UTC] PHP Notice:  Undefined index: voter_id in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/forgot.php on line 20
+[08-Oct-2022 15:45:06 UTC] PHP Notice:  Undefined variable: email1 in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/forgot.php on line 29
+[08-Oct-2022 15:45:06 UTC] PHP Notice:  Undefined variable: password in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/forgot.php on line 30
+[08-Oct-2022 15:47:01 UTC] PHP Notice:  Undefined variable: email1 in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/forgot.php on line 29
+[08-Oct-2022 15:47:01 UTC] PHP Notice:  Undefined variable: password in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/forgot.php on line 30
+[08-Oct-2022 15:47:52 UTC] PHP Notice:  Undefined variable: email1 in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/forgot.php on line 29
+[08-Oct-2022 15:47:52 UTC] PHP Notice:  Undefined variable: password in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/forgot.php on line 30
+[08-Oct-2022 15:52:47 UTC] PHP Notice:  Undefined variable: email1 in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/forgot.php on line 29
+[08-Oct-2022 15:52:47 UTC] PHP Notice:  Undefined variable: password in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/forgot.php on line 30
+[10-Oct-2022 02:42:26 UTC] PHP Notice:  Undefined index: photo in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/register.php on line 11
+[10-Oct-2022 02:42:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/register.php on line 11
+[10-Oct-2022 02:42:26 UTC] PHP Notice:  Undefined index: proof in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/register.php on line 15
+[10-Oct-2022 02:42:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/register.php on line 15
+[10-Oct-2022 02:42:26 UTC] PHP Notice:  Undefined variable: email1 in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/register.php on line 34
+[10-Oct-2022 02:46:23 UTC] PHP Notice:  Undefined index: photo in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/register.php on line 11
+[10-Oct-2022 02:46:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/register.php on line 11
+[10-Oct-2022 02:46:23 UTC] PHP Notice:  Undefined index: proof in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/register.php on line 15
+[10-Oct-2022 02:46:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/register.php on line 15
+[10-Oct-2022 02:46:23 UTC] PHP Notice:  Undefined variable: email1 in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/register.php on line 34
+[10-Oct-2022 02:48:38 UTC] PHP Notice:  Undefined index: photo in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/register.php on line 11
+[10-Oct-2022 02:48:38 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/register.php on line 11
+[10-Oct-2022 02:48:38 UTC] PHP Notice:  Undefined index: proof in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/register.php on line 15
+[10-Oct-2022 02:48:38 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/register.php on line 15
+[10-Oct-2022 02:48:38 UTC] PHP Notice:  Undefined variable: email1 in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/register.php on line 34
+[10-Oct-2022 02:57:54 UTC] PHP Notice:  Undefined index: photo in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/register.php on line 11
+[10-Oct-2022 02:57:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/register.php on line 11
+[10-Oct-2022 02:57:54 UTC] PHP Notice:  Undefined index: proof in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/register.php on line 15
+[10-Oct-2022 02:57:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/register.php on line 15
+[10-Oct-2022 02:57:54 UTC] PHP Notice:  Undefined variable: email1 in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/register.php on line 34
+[10-Oct-2022 04:26:50 UTC] PHP Notice:  Undefined variable: email1 in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/onlinevoting/forgot.php on line 29
+[10-Oct-2022 04:26:50 UTC] PHP Notice:  Undefined variable: password in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/onlinevoting/forgot.php on line 30
+[10-Oct-2022 04:27:16 UTC] PHP Notice:  Undefined variable: email1 in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/onlinevoting/forgot.php on line 29
+[10-Oct-2022 04:27:16 UTC] PHP Notice:  Undefined variable: password in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/onlinevoting/forgot.php on line 30
+[13-Oct-2022 01:03:29 UTC] PHP Warning:  parse_ini_file(onlinevoting/admin/sitetitle.ini): failed to open stream: No such file or directory in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/candidateregister.php on line 17
+[13-Oct-2022 01:03:29 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/candidateregister.php on line 18
+[13-Oct-2022 01:03:29 UTC] PHP Warning:  parse_ini_file(onlinevoting/admin/sitetitle.ini): failed to open stream: No such file or directory in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/candidateregister.php on line 65
+[13-Oct-2022 01:03:29 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/candidateregister.php on line 66
+[13-Oct-2022 01:03:29 UTC] PHP Warning:  parse_ini_file(onlinevoting/admin/sitetitle.ini): failed to open stream: No such file or directory in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/candidateregister.php on line 195
+[13-Oct-2022 01:03:29 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/candidateregister.php on line 196
+[13-Oct-2022 01:03:29 UTC] PHP Warning:  parse_ini_file(onlinevoting/admin/sitetitle.ini): failed to open stream: No such file or directory in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/candidateregister.php on line 242
+[13-Oct-2022 01:03:29 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/candidateregister.php on line 243
+[13-Oct-2022 01:03:29 UTC] PHP Warning:  parse_ini_file(onlinevoting/admin/footer1.ini): failed to open stream: No such file or directory in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/candidateregister.php on line 321
+[13-Oct-2022 01:03:29 UTC] PHP Warning:  parse_ini_file(onlinevoting/admin/footer2.ini): failed to open stream: No such file or directory in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/candidateregister.php on line 322
+[13-Oct-2022 01:03:29 UTC] PHP Warning:  parse_ini_file(onlinevoting/admin/footer3.ini): failed to open stream: No such file or directory in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/candidateregister.php on line 323
+[13-Oct-2022 01:03:29 UTC] PHP Warning:  parse_ini_file(onlinevoting/admin/footer4.ini): failed to open stream: No such file or directory in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/candidateregister.php on line 324
+[13-Oct-2022 01:03:29 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/candidateregister.php on line 325
+[13-Oct-2022 01:03:29 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/candidateregister.php on line 326
+[13-Oct-2022 01:03:29 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/candidateregister.php on line 327
+[13-Oct-2022 01:03:29 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/candidateregister.php on line 328
+[13-Oct-2022 01:03:29 UTC] PHP Warning:  include(onlinevoting/includes/scripts.php): failed to open stream: No such file or directory in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/candidateregister.php on line 337
+[13-Oct-2022 01:03:29 UTC] PHP Warning:  include(): Failed opening 'onlinevoting/includes/scripts.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/candidateregister.php on line 337
+[13-Oct-2022 01:08:40 UTC] PHP Warning:  move_uploaded_file(onlinevoting/images/raviteja.png): failed to open stream: No such file or directory in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/candidates_add.php on line 12
+[13-Oct-2022 01:08:40 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpOZZbC5' to 'onlinevoting/images/raviteja.png' in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/candidates_add.php on line 12
+[13-Oct-2022 12:38:17 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/navbar.php on line 39
+[13-Oct-2022 12:38:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/navbar.php on line 39
+[13-Oct-2022 12:38:17 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/navbar.php on line 39
+[13-Oct-2022 12:38:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/navbar.php on line 39
+[13-Oct-2022 12:38:17 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 12:38:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 12:38:17 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:38:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:38:44 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/navbar.php on line 39
+[13-Oct-2022 12:38:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/navbar.php on line 39
+[13-Oct-2022 12:38:44 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/navbar.php on line 39
+[13-Oct-2022 12:38:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/navbar.php on line 39
+[13-Oct-2022 12:38:44 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 59
+[13-Oct-2022 12:38:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 59
+[13-Oct-2022 12:38:44 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:38:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:38:45 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/navbar.php on line 39
+[13-Oct-2022 12:38:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/navbar.php on line 39
+[13-Oct-2022 12:38:45 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/navbar.php on line 39
+[13-Oct-2022 12:38:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/navbar.php on line 39
+[13-Oct-2022 12:38:45 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 59
+[13-Oct-2022 12:38:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 59
+[13-Oct-2022 12:38:45 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:38:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:38:46 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/navbar.php on line 39
+[13-Oct-2022 12:38:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/navbar.php on line 39
+[13-Oct-2022 12:38:46 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/navbar.php on line 39
+[13-Oct-2022 12:38:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/navbar.php on line 39
+[13-Oct-2022 12:38:46 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 59
+[13-Oct-2022 12:38:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 59
+[13-Oct-2022 12:38:46 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:38:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:42:47 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 93
+[13-Oct-2022 12:42:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 93
+[13-Oct-2022 12:42:47 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:42:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:42:49 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 93
+[13-Oct-2022 12:42:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 93
+[13-Oct-2022 12:42:49 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:42:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:43:40 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 93
+[13-Oct-2022 12:43:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 93
+[13-Oct-2022 12:43:40 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:43:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:44:15 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 93
+[13-Oct-2022 12:44:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 93
+[13-Oct-2022 12:44:15 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:44:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:44:16 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 93
+[13-Oct-2022 12:44:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 93
+[13-Oct-2022 12:44:16 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:44:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:45:25 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 76
+[13-Oct-2022 12:45:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 76
+[13-Oct-2022 12:45:25 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:45:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:45:26 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 76
+[13-Oct-2022 12:45:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 76
+[13-Oct-2022 12:45:26 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:45:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:45:27 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 76
+[13-Oct-2022 12:45:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 76
+[13-Oct-2022 12:45:27 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:45:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:45:47 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 76
+[13-Oct-2022 12:45:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 76
+[13-Oct-2022 12:45:47 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:45:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:45:48 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 76
+[13-Oct-2022 12:45:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 76
+[13-Oct-2022 12:45:48 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:45:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:46:05 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 74
+[13-Oct-2022 12:46:05 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 74
+[13-Oct-2022 12:46:05 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:46:05 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:46:25 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 74
+[13-Oct-2022 12:46:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 74
+[13-Oct-2022 12:46:25 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:46:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:46:40 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 66
+[13-Oct-2022 12:46:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 66
+[13-Oct-2022 12:46:40 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:46:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:46:53 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 65
+[13-Oct-2022 12:46:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 65
+[13-Oct-2022 12:46:53 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:46:53 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:46:54 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 65
+[13-Oct-2022 12:46:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 65
+[13-Oct-2022 12:46:54 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:46:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:48:12 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 84
+[13-Oct-2022 12:48:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 84
+[13-Oct-2022 12:48:12 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:48:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:48:14 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 84
+[13-Oct-2022 12:48:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 84
+[13-Oct-2022 12:48:14 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:48:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:49:29 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 85
+[13-Oct-2022 12:49:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 85
+[13-Oct-2022 12:49:29 UTC] PHP Notice:  Undefined variable: voter in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:49:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/includes/ballot_modal.php on line 50
+[13-Oct-2022 12:55:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function slugify() in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php:61
+Stack trace:
+#0 {main}
+  thrown in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 61
+[13-Oct-2022 12:55:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function slugify() in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php:61
+Stack trace:
+#0 {main}
+  thrown in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 61
+[13-Oct-2022 12:57:15 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 95
+[13-Oct-2022 12:57:16 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 95
+[13-Oct-2022 12:58:08 UTC] PHP Notice:  Undefined index: max_vote in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 61
+[13-Oct-2022 12:58:08 UTC] PHP Notice:  Undefined index: description in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 68
+[13-Oct-2022 12:58:08 UTC] PHP Notice:  Undefined index: description in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 73
+[13-Oct-2022 12:58:46 UTC] PHP Notice:  Undefined index: description in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 66
+[13-Oct-2022 12:58:46 UTC] PHP Notice:  Undefined variable: instruct in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 69
+[13-Oct-2022 12:58:46 UTC] PHP Notice:  Undefined index: description in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 71
+[13-Oct-2022 12:58:48 UTC] PHP Notice:  Undefined index: description in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 66
+[13-Oct-2022 12:58:48 UTC] PHP Notice:  Undefined variable: instruct in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 69
+[13-Oct-2022 12:58:48 UTC] PHP Notice:  Undefined index: description in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 71
+[13-Oct-2022 13:00:02 UTC] PHP Notice:  Undefined index: max_vote in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 80
+[13-Oct-2022 13:00:02 UTC] PHP Notice:  Undefined index: description in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 80
+[13-Oct-2022 13:00:02 UTC] PHP Notice:  Undefined index: platform in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 84
+[13-Oct-2022 13:00:02 UTC] PHP Notice:  Undefined index: max_vote in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:00:02 UTC] PHP Notice:  Undefined index: description in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 96
+[13-Oct-2022 13:00:02 UTC] PHP Notice:  Undefined index: description in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 101
+[13-Oct-2022 13:00:21 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:00:21 UTC] PHP Notice:  Undefined index: platform in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:00:21 UTC] PHP Notice:  Undefined index: description in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 94
+[13-Oct-2022 13:00:21 UTC] PHP Notice:  Undefined variable: instruct in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 97
+[13-Oct-2022 13:00:21 UTC] PHP Notice:  Undefined index: description in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 99
+[13-Oct-2022 13:00:37 UTC] PHP Notice:  Undefined index: description in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:00:37 UTC] PHP Notice:  Undefined variable: instruct in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 92
+[13-Oct-2022 13:00:37 UTC] PHP Notice:  Undefined index: description in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 94
+[13-Oct-2022 13:01:16 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:01:16 UTC] PHP Notice:  Undefined index: description in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 94
+[13-Oct-2022 13:01:16 UTC] PHP Notice:  Undefined variable: instruct in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 97
+[13-Oct-2022 13:01:16 UTC] PHP Notice:  Undefined index: description in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 99
+[13-Oct-2022 13:01:46 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:01:48 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:01:58 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:01:58 UTC] PHP Notice:  Undefined index: description in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 94
+[13-Oct-2022 13:01:58 UTC] PHP Notice:  Undefined variable: instruct in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 97
+[13-Oct-2022 13:01:58 UTC] PHP Notice:  Undefined index: description in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 99
+[13-Oct-2022 13:02:17 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:02:17 UTC] PHP Notice:  Undefined index: description in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 94
+[13-Oct-2022 13:04:20 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:04:20 UTC] PHP Notice:  Undefined index: description in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 95
+[13-Oct-2022 13:04:40 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:04:40 UTC] PHP Notice:  Undefined index: description in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 95
+[13-Oct-2022 13:05:33 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:05:33 UTC] PHP Notice:  Undefined index: description in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 95
+[13-Oct-2022 13:06:31 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:06:31 UTC] PHP Notice:  Undefined index: description in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 95
+[13-Oct-2022 13:06:32 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:06:32 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:06:32 UTC] PHP Notice:  Undefined index: description in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 95
+[13-Oct-2022 13:06:32 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:06:32 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:06:32 UTC] PHP Notice:  Undefined index: description in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 95
+[13-Oct-2022 13:07:07 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:07:07 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:07:07 UTC] PHP Notice:  Undefined index: description in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 95
+[13-Oct-2022 13:07:07 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:07:07 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:07:07 UTC] PHP Notice:  Undefined index: description in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 95
+[13-Oct-2022 13:07:22 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:07:22 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:07:22 UTC] PHP Notice:  Undefined index: description in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 95
+[13-Oct-2022 13:07:22 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:07:22 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:07:22 UTC] PHP Notice:  Undefined index: description in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 95
+[13-Oct-2022 13:07:23 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:07:23 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:07:23 UTC] PHP Notice:  Undefined index: description in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 95
+[13-Oct-2022 13:07:23 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:07:23 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:07:23 UTC] PHP Notice:  Undefined index: description in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 95
+[13-Oct-2022 13:07:24 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:07:24 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:07:24 UTC] PHP Notice:  Undefined index: description in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 95
+[13-Oct-2022 13:07:24 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:07:24 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:07:24 UTC] PHP Notice:  Undefined index: description in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 95
+[13-Oct-2022 13:07:26 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:07:26 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:07:26 UTC] PHP Notice:  Undefined index: description in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 95
+[13-Oct-2022 13:07:26 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:07:26 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:07:26 UTC] PHP Notice:  Undefined index: description in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 95
+[13-Oct-2022 13:07:43 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:07:43 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:07:43 UTC] PHP Notice:  Undefined index: description in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 95
+[13-Oct-2022 13:07:43 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:07:43 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:07:43 UTC] PHP Notice:  Undefined index: description in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 95
+[13-Oct-2022 13:07:46 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:07:46 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:07:46 UTC] PHP Notice:  Undefined index: description in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 95
+[13-Oct-2022 13:07:46 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:07:46 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:07:46 UTC] PHP Notice:  Undefined index: description in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 95
+[13-Oct-2022 13:08:01 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:08:01 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:08:01 UTC] PHP Notice:  Undefined index: description in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 95
+[13-Oct-2022 13:08:01 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:08:01 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 83
+[13-Oct-2022 13:08:01 UTC] PHP Notice:  Undefined index: description in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 95
+[13-Oct-2022 13:08:48 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:08:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:08:48 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 79
+[13-Oct-2022 13:08:48 UTC] PHP Notice:  Undefined variable: candidate in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 80
+[13-Oct-2022 13:08:48 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:08:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:08:48 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 79
+[13-Oct-2022 13:08:48 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:08:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:08:48 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:08:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:09:09 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:09:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:09:09 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 79
+[13-Oct-2022 13:09:09 UTC] PHP Notice:  Undefined variable: candidate in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 80
+[13-Oct-2022 13:09:09 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:09:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:09:09 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 79
+[13-Oct-2022 13:09:09 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:09:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:09:09 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:09:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:12:34 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:12:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:12:34 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 79
+[13-Oct-2022 13:12:34 UTC] PHP Notice:  Undefined variable: candidate in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 80
+[13-Oct-2022 13:12:34 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:12:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:12:34 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 79
+[13-Oct-2022 13:12:34 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:12:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:12:34 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:12:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:12:56 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:12:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:12:56 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 79
+[13-Oct-2022 13:12:56 UTC] PHP Notice:  Undefined variable: candidate in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 80
+[13-Oct-2022 13:12:56 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:12:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:12:56 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 79
+[13-Oct-2022 13:12:56 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:12:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:12:56 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:12:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:13:03 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:13:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:13:03 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 79
+[13-Oct-2022 13:13:03 UTC] PHP Notice:  Undefined variable: candidate in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 80
+[13-Oct-2022 13:13:03 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:13:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:13:03 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 79
+[13-Oct-2022 13:13:03 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:13:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:13:03 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:13:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:13:05 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:13:05 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:13:05 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 79
+[13-Oct-2022 13:13:05 UTC] PHP Notice:  Undefined variable: candidate in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 80
+[13-Oct-2022 13:13:05 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:13:05 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:13:05 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 79
+[13-Oct-2022 13:13:05 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:13:05 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:13:05 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:13:05 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:13:18 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:13:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:13:18 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 79
+[13-Oct-2022 13:13:18 UTC] PHP Notice:  Undefined variable: candidate in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 80
+[13-Oct-2022 13:13:18 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:13:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:13:18 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 79
+[13-Oct-2022 13:13:18 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:13:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:13:18 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:13:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:14:40 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:14:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:14:40 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 79
+[13-Oct-2022 13:14:40 UTC] PHP Notice:  Undefined variable: candidate in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 80
+[13-Oct-2022 13:14:40 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:14:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:14:40 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 79
+[13-Oct-2022 13:14:40 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:14:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:14:40 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:14:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:17:14 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:17:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:17:14 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 79
+[13-Oct-2022 13:17:14 UTC] PHP Notice:  Undefined variable: candidate in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 80
+[13-Oct-2022 13:17:14 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:17:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:17:14 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 79
+[13-Oct-2022 13:17:14 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:17:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:17:14 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:17:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:21:38 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:21:38 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:21:38 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:21:38 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:21:38 UTC] PHP Notice:  Undefined variable: candidate in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 96
+[13-Oct-2022 13:26:36 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:26:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:26:36 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:26:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:26:36 UTC] PHP Notice:  Undefined variable: candidate in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 96
+[13-Oct-2022 13:26:46 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:26:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:26:46 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:26:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:26:46 UTC] PHP Notice:  Undefined variable: candidate in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 96
+[13-Oct-2022 13:29:46 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:29:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:29:46 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:29:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:29:46 UTC] PHP Notice:  Undefined variable: candidate in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 96
+[13-Oct-2022 13:29:49 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:29:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:29:49 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:29:49 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:29:49 UTC] PHP Notice:  Undefined variable: candidate in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 96
+[13-Oct-2022 13:38:01 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:38:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:38:01 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:38:01 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:38:01 UTC] PHP Notice:  Undefined variable: candidate in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 96
+[13-Oct-2022 13:50:40 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:50:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:50:40 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:50:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:50:40 UTC] PHP Notice:  Undefined variable: candidate in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 96
+[13-Oct-2022 13:50:44 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:50:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:50:44 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 79
+[13-Oct-2022 13:50:44 UTC] PHP Notice:  Undefined variable: candidate in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 80
+[13-Oct-2022 13:50:44 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:50:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:50:44 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:50:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:53:52 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:53:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:53:52 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 79
+[13-Oct-2022 13:53:52 UTC] PHP Notice:  Undefined variable: candidate in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 80
+[13-Oct-2022 13:53:52 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:53:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:53:52 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:53:52 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:54:05 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:54:05 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:54:05 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 79
+[13-Oct-2022 13:54:05 UTC] PHP Notice:  Undefined variable: candidate in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 80
+[13-Oct-2022 13:54:05 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:54:05 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:54:05 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:54:05 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:57:26 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:57:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:57:26 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 79
+[13-Oct-2022 13:57:26 UTC] PHP Notice:  Undefined variable: candidate in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 80
+[13-Oct-2022 13:57:26 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:57:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:57:26 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:57:26 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:57:40 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:57:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:57:40 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 79
+[13-Oct-2022 13:57:40 UTC] PHP Notice:  Undefined variable: candidate in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 80
+[13-Oct-2022 13:57:40 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:57:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:57:40 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:57:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:57:44 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:57:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[13-Oct-2022 13:57:44 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 79
+[13-Oct-2022 13:57:44 UTC] PHP Notice:  Undefined variable: candidate in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 80
+[13-Oct-2022 13:57:44 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:57:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[13-Oct-2022 13:57:44 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[13-Oct-2022 13:57:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[14-Oct-2022 00:17:54 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[14-Oct-2022 00:17:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[14-Oct-2022 00:17:54 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 79
+[14-Oct-2022 00:17:54 UTC] PHP Notice:  Undefined variable: candidate in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 80
+[14-Oct-2022 00:17:54 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[14-Oct-2022 00:17:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[14-Oct-2022 00:17:54 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[14-Oct-2022 00:17:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[14-Oct-2022 09:53:03 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[14-Oct-2022 09:53:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 58
+[14-Oct-2022 09:53:03 UTC] PHP Notice:  Undefined variable: input in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 79
+[14-Oct-2022 09:53:03 UTC] PHP Notice:  Undefined variable: candidate in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 80
+[14-Oct-2022 09:53:03 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[14-Oct-2022 09:53:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 89
+[14-Oct-2022 09:53:03 UTC] PHP Notice:  Undefined variable: row in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
+[14-Oct-2022 09:53:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/l6kwjwv5g1co/public_html/voting.svrm.co.in/aboutus.php on line 91
